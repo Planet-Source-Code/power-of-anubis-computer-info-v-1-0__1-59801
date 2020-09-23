@@ -1,0 +1,8 @@
+FOX-INFO v 1.0
+
+This the first version of my program Fox-Info, please vote for this project because I worked hard.
+Hope to appear in the contest.
+
+I used some codes posted on PSC.com
+
+Thank's
